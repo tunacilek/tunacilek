@@ -45,15 +45,6 @@ Custom Quantile LSTM model for forecasting BIST stock quantile returns + portfol
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tunacilek&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunacilek&layout=compact&theme=default" height="160" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/tunacilek](https://www.linkedin.com/in/tuna-%C3%A7ilek-908076257/)  
