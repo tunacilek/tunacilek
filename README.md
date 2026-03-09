@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tuna Çilek  
 
-**Data Scientist | MLOps Enthusiast | AI Engineer (LLMs & RAG) | MSc in Data Science & Big Data**
+**Data Scientist | ML&AI Engineer | MSc in Data Science & Big Data**
 
 I build **machine learning systems**, **LLM-powered applications**, and **end-to-end MLOps pipelines**.  
 My work focuses on **machine learning**, **time series forecasting**, **risk modeling**, **vector search**, and **deploying production-ready AI systems**.  
